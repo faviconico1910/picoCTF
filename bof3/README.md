@@ -95,7 +95,7 @@ for i in range(1, 5):
 			break
 ```
 
-Finnaly, same as bof1 and bof2, we'll use ret2win technique to obtain our flag
+Finally, same as bof1 and bof2, we'll use ret2win technique to obtain our flag
 
 ```
 p = remote('saturn.picoctf.net',56046)
